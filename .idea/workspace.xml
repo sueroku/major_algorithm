@@ -1,18 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="0acab1e2-e47c-4d6f-8f9a-2d7087e90bea" name="Changes" comment="" />
+    <list default="true" id="0acab1e2-e47c-4d6f-8f9a-2d7087e90bea" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A1sort/S1HeapSort구현.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A1sort/S2명예의전당.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A1sort/S2야근지수.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A2dfs/D1Basic1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A2dfs/D2Basic2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A2dfs/D3Basic3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A2dfs/D4피로도.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A3bfs/B1Basic1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A3bfs/B2Basic2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A3bfs/B3Basic3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A3bfs/B4가장먼노드.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2iAcyg8cvlk6g3KrlKEOIKiWXb9" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -21,12 +46,99 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.B1Basic1.executor": "Run",
+    "Application.B2Basic2.executor": "Run",
+    "Application.B3Basic3.executor": "Run",
+    "Application.B4가장먼노드.executor": "Run",
+    "Application.D1Basic.executor": "Run",
+    "Application.D1Basic1.executor": "Run",
+    "Application.D2Basic2.executor": "Run",
+    "Application.D3Basic3.executor": "Run",
+    "Application.D4피로도.executor": "Run",
+    "Application.S1HeapSort구현.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "C:/Users/Playdata/IdeaProjects/major_algorithm/src/Main.java"
   }
 }]]></component>
+  <component name="RunManager" selected="Application.D4피로도">
+    <configuration name="B1Basic1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="A3bfs.B1Basic1" />
+      <module name="major_algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="A3bfs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="B2Basic2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="A3bfs.B2Basic2" />
+      <module name="major_algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="A3bfs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="B3Basic3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="A3bfs.B3Basic3" />
+      <module name="major_algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="A3bfs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="B4가장먼노드" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="A3bfs.B4가장먼노드" />
+      <module name="major_algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="A3bfs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="D4피로도" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="A2dfs.D4피로도" />
+      <module name="major_algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="A2dfs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.D4피로도" />
+        <item itemvalue="Application.B4가장먼노드" />
+        <item itemvalue="Application.B3Basic3" />
+        <item itemvalue="Application.B2Basic2" />
+        <item itemvalue="Application.B1Basic1" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -37,16 +149,5 @@
       <updated>1718937079432</updated>
     </task>
     <servers />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Main.java</url>
-          <line>11</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
