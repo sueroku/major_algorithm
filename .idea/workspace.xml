@@ -5,26 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0acab1e2-e47c-4d6f-8f9a-2d7087e90bea" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/A2dfs/D5네트워크.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/A2dfs/D6타겟넘버.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/A2dfs/D7여행경로.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/A3bfs/B5이동BFS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/A3bfs/B6게임맵.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/A4greedy/G1GreedyBasic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/A4greedy/G2체육복.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/A4greedy/G3구명보트.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/A5dp/D1DpBasic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/A5dp/D2멀리뛰기.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/A5dp/D3정수삼각형.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/A5dp/D4등굣길.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/A6투포인터/T1Basic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/A6투포인터/T2연속된부분수열의합.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/A6투포인터/T3숫자의표현.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/A6투포인터/T4슬라이딩윈도우.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/A7이분탐색/B1Basic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/A7이분탐색/B2Basic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A8코딩페스티벌/Baekjoon17086.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A8코딩페스티벌/Baekjoon17298.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A8코딩페스티벌/Baekjoon6443.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/A2dfs/D4피로도.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A2dfs/D4피로도.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/A7이분탐색/B3입국심사.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A7이분탐색/B3입국심사.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,6 +42,8 @@
     "Application.B2Basic2.executor": "Run",
     "Application.B3Basic3.executor": "Run",
     "Application.B4가장먼노드.executor": "Run",
+    "Application.Baekjoon17298.executor": "Run",
+    "Application.Baekjoon6443.executor": "Run",
     "Application.D1Basic.executor": "Run",
     "Application.D1Basic1.executor": "Run",
     "Application.D1DpBasic.executor": "Run",
@@ -77,7 +64,7 @@
     "onboarding.tips.debug.path": "C:/Users/Playdata/IdeaProjects/major_algorithm/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.B1Basic">
+  <component name="RunManager" selected="Application.Baekjoon6443">
     <configuration name="B1Basic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="A7이분탐색.B1Basic" />
       <module name="major_algorithm" />
@@ -91,12 +78,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="D1DpBasic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="A5dp.D1DpBasic" />
+    <configuration name="Baekjoon17298" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="A8코딩페스티벌.Baekjoon17298" />
       <module name="major_algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="A5dp.*" />
+          <option name="PATTERN" value="A8코딩페스티벌.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,12 +91,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="D4등굣길" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="A5dp.D4등굣길" />
+    <configuration name="Baekjoon6443" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="A8코딩페스티벌.Baekjoon6443" />
       <module name="major_algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="A5dp.*" />
+          <option name="PATTERN" value="A8코딩페스티벌.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -145,11 +132,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Baekjoon6443" />
+        <item itemvalue="Application.Baekjoon17298" />
         <item itemvalue="Application.B1Basic" />
         <item itemvalue="Application.T3숫자의표현" />
         <item itemvalue="Application.T1Basic" />
-        <item itemvalue="Application.D4등굣길" />
-        <item itemvalue="Application.D1DpBasic" />
       </list>
     </recent_temporary>
   </component>
